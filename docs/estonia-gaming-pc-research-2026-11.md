@@ -165,3 +165,24 @@
 **Своя сборка из тех же деталей** (Core Ultra 7 265F ≈ 339 €, B860M ≈ 128 €, 32 ГБ ≈ 542 €, RTX 5060 Ti 16 ГБ ≈ 880 €, SSD ≈ 160 €, БП ≈ 85 €, корпус и кулер ≈ 80 €, Windows ≈ 120 €) стоит **≈ 2 330 €**. Готовый ПК **дешевле примерно на 430 €**.
 
 **Ограничения:** блок питания ATX12VO на 500 Вт: обычный ATX-БП не подойдёт, а мощности хватит максимум на карты уровня RTX 5070 (так указывает MSI). Платформа LGA1851 вряд ли получит новые процессоры. Чтобы расширить память, придётся менять оба модуля.
+
+---
+
+## Приложение: Lenovo LOQ Tower 26ADR10 (91DF003YMW)
+
+[Arvutitark](https://arvutitark.ee/arvutid-ja-lisad/lauaarvutid/brand-pc/lenovo-loq-tower-26adr10-amd-r7-8745hx32gb1tbnvidia-gf-rt-1510956): **1 999 €**, в наличии 35 шт. (5.11.2026). Тот же ПК в [Euronics](https://www.euronics.ee/it/lauaarvutid/lauaarvutid/91df003ymw/lenovo-loq-tower-26adr10-ryzen-7-32-gb-1-tb-rtx-5070-hall-must-lauaarvuti) стоит 2 249 €. Характеристики взяты из [Lenovo PSREF для этой модели](https://psref.lenovo.com/Detail/LOQ/LOQ_Tower_26ADR10?M=91DF003YMW) и [спецификации серии](https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_Tower_26ADR10/LOQ_Tower_26ADR10_Spec.pdf) ✅.
+
+| | |
+|---|---|
+| CPU | AMD Ryzen 7 8745HX: мобильный Zen 4, 8 ядер / 16 потоков, 3,6–5,1 ГГц, 32 МБ L3, **припаян к плате** |
+| Чипсет | AMD SoC (отдельного чипсета нет) |
+| GPU | GeForce RTX 5070 12 ГБ GDDR7, PCIe 4.0 x16 (полноразмерный слот) |
+| RAM | 2×16 ГБ **SODIMM** DDR5-5200 (ноутбучные модули), 2 слота, оба заняты, максимум 64 ГБ |
+| SSD | 1 ТБ M.2 PCIe 4.0 x4; второй слот M.2 свободен, есть 2 отсека 3,5" |
+| БП | **500 Вт, КПД 88 %** |
+| Охлаждение | 2×120 мм спереди и 120 мм сзади (ARGB) |
+| Сеть | Gigabit LAN, Wi-Fi 6 + BT 5.2 |
+| Корпус | Tower 26 л, 205 × 405 × 437 мм, ≈ 10,5 кг |
+| ОС / гарантия | Windows 11 Home / 2 года (courier / carry-in) |
+
+**Ограничения:** процессор не заменить. Блок питания на 500 Вт не потянет RTX 5070 Ti или RX 9070 XT без замены (на сайте Lenovo для этой серии есть версии с 850 Вт). Память только SODIMM. Gigabit LAN.
