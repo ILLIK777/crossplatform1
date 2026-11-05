@@ -232,3 +232,6 @@ PNY CS1030 — это PCIe 3.0, в играх почти не медленнее
 | [ASUS Dual RTX 5060 Ti 16 ГБ](https://arvutitark.ee/arvutikomponendid/graafikakaardid-vga/vga-asus-rtx5060ti-16gb-dual-o16g-1451626) | 879,90 € | **2 241,85 €** | в магазинах | уровень 1080p/1440p high |
 
 В других магазинах (по Hinnavaatlus) RTX 5070 Ti стоит от ≈ 1 441 € (Eestipoisid, Enter24 1 447 €), RTX 5070 — от ≈ 969 € (MULTO, K-rauta*).
+
+### Исправление по сборке в Arvutitark: блок питания
+Seasonic **G12 GC-750** — несъёмные кабели, стандарт ATX12V (не ATX 3.x), нет разъёма 12V-2x6 ([Tom's Hardware](https://www.tomshardware.com/pc-components/power-supplies/seasonic-g12-gc-750-750w-power-supply-review)). Для RX 9070 XT, которая питается от 8-pin, он подходит, но ASRock рекомендует для Steel Legend блок на **800 Вт**. Поэтому вместо него рекомендую [Corsair RM850e (ATX 3.1, полностью модульный)](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/psu-corsair-rme-850w-80gold-fm-atx31-2025-1425677) за 139,40 € (склад, 4–8 дней) или [RM750e](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/psu-corsair-rme-750w-80gold-fm-atx31-2025-1425674) за 123,90 €. С RM850e сборка стоит **2 526,70 €**.
