@@ -262,3 +262,16 @@
 3. **INTOP AQUA** — если нужно сэкономить ≈ 300 €.
 
 У любого из них до покупки спросите у магазина модели БП и материнской платы.
+
+### Если ссылка на товар не открывается
+
+Ссылки на конкретные товары взяты из поисковой выдачи. В этой среде сайты магазинов недоступны, поэтому проверить ссылки я не мог. Магазины часто удаляют страницы распроданных моделей, и такие ссылки перестают работать. Надёжнее искать нужную конфигурацию через агрегатор или в каталоге магазина:
+
+| Что ищем | Поиск на hind.ee (все магазины) | Каталоги магазинов |
+|---|---|---|
+| 7800X3D + RX 9070 XT | [hind.ee/s/7800x3d-9070-xt](https://www.hind.ee/s/7800x3d-9070-xt/) | [Arvutitark: лауаарвутид](https://arvutitark.ee/arvutid-ja-lisad/lauaarvutid/1) |
+| 7800X3D + RTX 5070 | [hind.ee/s/7800x3d-rtx-5070](https://www.hind.ee/s/7800x3d-rtx-5070/) | [Arvutivägi: mänguarvutid](https://arvutivagi.ee/manguarvutid) |
+| 9700X + RTX 5070 | [hind.ee/s/9700x-rtx-5070](https://www.hind.ee/s/9700x-rtx-5070/) | [Euronics: mänguriarvutid](https://www.euronics.ee/it/lauaarvutid/manguriarvutid) |
+| Готовые ПК Actina | [hind.ee/s/actina-7800x3d](https://www.hind.ee/s/actina-7800x3d/) | [Klick: mänguri lauaarvutid](https://www.klick.ee/en/arvutid-ja-lisad/arvutid/mangurite-lauaarvutid) |
+
+Ссылки поиска на hind.ee собраны по тому же шаблону `hind.ee/s/<запрос>/`, что и страницы из выдачи, но сами эти ссылки я не открывал. Если какая-то не работает, введите запрос вручную в поиске на hind.ee. Для готовых ПК Actina удобно искать по коду модели (EAN), например `5901443417163`.
