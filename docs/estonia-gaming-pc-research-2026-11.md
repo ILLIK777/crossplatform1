@@ -275,3 +275,25 @@
 | Готовые ПК Actina | [hind.ee/s/actina-7800x3d](https://www.hind.ee/s/actina-7800x3d/) | [Klick: mänguri lauaarvutid](https://www.klick.ee/en/arvutid-ja-lisad/arvutid/mangurite-lauaarvutid) |
 
 Ссылки поиска на hind.ee собраны по тому же шаблону `hind.ee/s/<запрос>/`, что и страницы из выдачи, но сами эти ссылки я не открывал. Если какая-то не работает, введите запрос вручную в поиске на hind.ee. Для готовых ПК Actina удобно искать по коду модели (EAN), например `5901443417163`.
+
+---
+
+## Дополнение: своя сборка ≈ 2 000 € из комплектующих RDE.ee
+
+Цены взяты из поисковых снимков страниц [rde.ee](https://www.rde.ee). Даты снимков неизвестны, и для одного товара на разных страницах встречаются разные цены, поэтому ниже указан разброс. **Цены на память выглядят устаревшими:** на hind.ee такие комплекты сейчас стоят от ≈ 343–445 €. Заложите в бюджет до +300 € на память.
+
+| Компонент | Модель | Цена на RDE (снимки) | Ссылка |
+|---|---|---|---|
+| CPU | AMD Ryzen 7 7800X3D BOX (100-100000910WOF) | 349–370 € | [товар](https://www.rde.ee/products/ee/428/1253402/sort/5/filter/0_0_0_0/Ryzen-7-7800X3D-100-100000910WOF-protsessor-CPU.html) |
+| Плата | MSI B650 Gaming Plus WIFI (ATX) | 154–184 € | [товар](https://www.rde.ee/products/ee/426/1179380/sort/5/filter/0_0_0_0/B650-Gaming-Plus-WIFI-emaplaat.html) |
+| RAM | Corsair Vengeance 2×16 ГБ DDR5-6000 CL30 (CMK32GX5M2B6000Z30) | 143 € ⚠️ вероятно устарела | [товар](https://www.rde.ee/products/ru/433/1190592/sort/5/filter/0_0_0_0/Venegance-32GB-DDR5-6000MHz-DIMM-CMK32GX5M2B6000Z30-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C.html) |
+| GPU | Radeon RX 9070 XT 16 ГБ: XFX Swift OC ≈ 732 €, Sapphire Pulse 747–1 106 €, ASRock Steel Legend ≈ 800 € | 730–800 € | [категория RX 9070 XT](https://www.rde.ee/categories/ee/417/sort/5/filter/0_0_0_1253706.1250731/page/3/Videokaardid.html) |
+| GPU (альт.) | ASUS RTX 5070 Ti Prime OC 16 ГБ | ≈ 949 € | [товар](https://www.rde.ee/products/ru/417/1452235/sort/5/filter/0_0_0_0/GeForce-RTX-5070-Ti-Prime-OC-16GB-GDDR7-256Bit-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0.html) |
+| SSD | Kingston KC3000 2 ТБ (PCIe 4.0, TLC) | 150–171 € | [товар](https://www.rde.ee/products/ee/416/1247899/sort/5/filter/0_0_0_0/KC3000-2TB-SKC3000D-2048G-k%C3%B5vaketas-SSD.html) |
+| БП | Corsair RM750e (≈ 116–133 €, ссылки на товар нет) или Corsair RM750x | 116–162 € | [RM750x](https://www.rde.ee/products/ee/415/1052546/sort/5/filter/0_0_0_0/RM750x-CP-9020199-EU-750W-arvuti-toiteplokk.html) · [80+ Gold](https://www.rde.ee/categories/ru/415/sort/5/filter/0_0_0_1025763/page/1/%D0%91%D0%BB%D0%BE%D0%BA%D0%B8-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.html) |
+| Кулер | Thermalright Peerless Assassin 120 SE | 40–41 € | [товар](https://www.rde.ee/products/ru/437/1303222/sort/5/filter/0_0_0_0/Peerless-Assassin-120-SE-CPU-Cooler-Black-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F.html) |
+| Корпус | Phanteks XT Pro (≈ 69–72 €) или Montech XR (≈ 55–60 €) | 55–72 € | [Phanteks](https://www.rde.ee/categories/ee/435/sort/5/filter/0_0_2224_0/page/1/Arvutikorpused.html) |
+| **Итого** | 7800X3D + RX 9070 XT | **≈ 1 850–1 950 €** по ценам снимков; **≈ 2 100–2 200 €**, если память стоит по текущему рынку | |
+
+Если вместо RX 9070 XT взять RTX 5070 Ti, сборка подорожает на ≈ +150–220 €.
+На RDE также продаётся готовый **INTOP AQUA (Ryzen 7 9800X3D / RTX 5080 / 32 ГБ / 1 ТБ, без ОС)** за ≈ 2 714–2 722 € ([товар](https://www.rde.ee/products/ee/148/1481723/sort/5/filter/0_0_0_0/AQUA-Ryzen-7-9800X3D-32GB-DDR5-1TB-SSD-RTX5080-16GB-no-OS-lauaarvuti.html)). При текущих ценах на память это сопоставимо со своей сборкой на тех же комплектующих. Модели блока питания и материнской платы магазин не указывает.
