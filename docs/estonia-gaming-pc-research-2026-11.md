@@ -186,3 +186,38 @@
 | ОС / гарантия | Windows 11 Home / 2 года (courier / carry-in) |
 
 **Ограничения:** процессор не заменить. Блок питания на 500 Вт не потянет RTX 5070 Ti или RX 9070 XT без замены (на сайте Lenovo для этой серии есть версии с 850 Вт). Память только SODIMM. Gigabit LAN.
+
+---
+
+## Приложение: своя сборка в одном магазине (для рассрочки), 5.11.2026
+
+Сборка **Ryzen 7 7800X3D + RX 9070 XT + 32 ГБ DDR5 + 1 ТБ + 750 Вт Gold**, все комплектующие из одного магазина. Цены по Arvutitark сняты через API сайта, по остальным магазинам — через Hinnavaatlus. Пометка «рассрочка ✅» значит, что на сайте магазина нашлось упоминание järelmaks или его партнёров (Inbank, ESTO и др.), «❓» — что проверить не удалось. Условия (процент, сроки, акции 0 %) нужно смотреть при оформлении.
+
+| Магазин | Итого | Рассрочка | Сроки |
+|---|---|---|---|
+| Enter24.eu | 2 228 € | ❓ | часть деталей 3–14 дней |
+| TopPC.ee | 2 277 € | ❓ | 1–9 дней |
+| CyberMarket | 2 297 € | ✅ ESTO | CPU с 24.11 |
+| Galador | 2 321 € | ✅ (järelmaks, ESTO) | плата с 23.11 |
+| RDE.EE | 2 333 € | ❓ (сайт закрыт Cloudflare) | до 8 дней |
+| Kaup24 | 2 352 € | ✅ Inbank, ESTO | корпус 10–15 дней |
+| 1a.ee | 2 412 € | ❓ | до 17 дней |
+| **Arvutitark** | **2 467 €** | ✅ (järelmaks, напр. 1 999 € → от 58,30 €/мес) | **всё есть в магазинах** |
+| Klick | неполный набор | ✅ | видеокарты дорогие (RX 9070 XT от 1 435 €) |
+
+### Сборка в Arvutitark (2 467,20 €, всё в наличии в магазинах)
+| Компонент | Модель | Цена | Ссылка |
+|---|---|---|---|
+| CPU | Ryzen 7 7800X3D (tray) | 299,90 € | [товар](https://arvutitark.ee/arvutikomponendid/protsessorid-cpu/amd-am5-ryzen-7-7800x3d-tray-50ghz-8xcore-120w-1259445) |
+| Плата | ASUS B650E MAX GAMING WIFI (ATX) | 149,90 € | [товар](https://arvutitark.ee/arvutikomponendid/emaplaadid/mb-asus-amd-am5-b650e-max-gaming-wifi-1431441) |
+| RAM | Patriot Viper Venom RGB 2×16 ГБ 6000 CL36 | 549,90 € | [товар](https://arvutitark.ee/arvutikomponendid/malud-ram/ram-patriot-d5-6000-32gb-c36-viper-rgb-venom-k2-1208963) |
+| GPU | ASRock RX 9070 XT Steel Legend 16 ГБ | 1 099,90 € | [товар](https://arvutitark.ee/arvutikomponendid/graafikakaardid-vga/asrock-radeon-rx-9070-xt-steel-legend-16gb-graafikakaart-1435830) |
+| SSD | WD Blue SN580 1 ТБ (Gen4) | 159,90 € | [товар](https://arvutitark.ee/arvutikomponendid/andmekandjad/pooljuhtkettad-ssd/ssd-pcie-g4-m2-nvme-1tb-sn580bulk-blue-wds100t3b1e-wdc-1624546) |
+| БП | Seasonic G12 GC-750 (80+ Gold) | 79,90 € | [товар](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/seasonic-netzteil-750w-g12-gc-750-80gold-1407015) |
+| Кулер | Thermalright Peerless Assassin 120 SE | 42,90 € | [товар](https://arvutitark.ee/arvutikomponendid/jahutid/protsessori-jahutid/kuhler-thermalright-peerless-assassin-120-se-1267738) |
+| Корпус | Lian Li Lancool 207 | 84,90 € | [товар](https://arvutitark.ee/arvutikomponendid/korpused/lian-li-lancool-207-pc-gehause-midi-tower-atx-tempered-gl-1404230) |
+
+### Сборка в CyberMarket (2 297 €, рассрочка через ESTO)
+7800X3D tray 293,03 € · Gigabyte B650M Gaming Plus WiFi 130,30 € · Goodram IRDM 2×16 6000 554,31 € · ASRock RX 9070 XT 1 002,46 € · PNY CS1030 1 ТБ 158,60 € · Seasonic Core GC-750 86,00 € · Arctic Freezer 36-S 21,90 € · Deepcool CC560 V2 50,46 €. Ссылки на страницы Hinnavaatlus со всеми предложениями: [CPU](https://www.hinnavaatlus.ee/2582663/amd-socket-am5-ryzen-7-7800x3d-tray/), [плата](https://www.hinnavaatlus.ee/4900240/gigabyte-socket-am5-b650m-gaming-plus-wifi/), [RAM](https://www.hinnavaatlus.ee/3019759/goodram-ddr5-irdm-32-gb-2x16gb-6000mhz/), [GPU](https://www.hinnavaatlus.ee/6976915/asrock-radeon-rx-9070-xt-16-gb/), [SSD](https://www.hinnavaatlus.ee/3069252/pny-cs1030-1tb-m280cs1030-1tb-rb/), [БП](https://www.hinnavaatlus.ee/7374118/seasonic-core-gc-750-atx31-80-gold-750w/), [кулер](https://www.hinnavaatlus.ee/7800265/arctic-cpu-cooler-freezer-36-s-multi-compatible/), [корпус](https://www.hinnavaatlus.ee/2892689/deepcool-cc560-v2/).
+
+PNY CS1030 — это PCIe 3.0, в играх почти не медленнее. Если хочется Gen4, разница ≈ 10–40 €.
