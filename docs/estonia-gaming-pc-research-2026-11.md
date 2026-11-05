@@ -143,3 +143,25 @@
 - Магазины (данные от 5.11.2026): [Arvutitark](https://arvutitark.ee), [Hinnavaatlus](https://www.hinnavaatlus.ee) (сравнение 30+ магазинов, включая 1a.ee, K-rauta, RDE.EE), [Klick: игровые ПК](https://www.klick.ee/arvutid-ja-lisad/arvutid/mangurite-lauaarvutid), [Klick: видеокарты](https://www.klick.ee/arvutid-ja-lisad/komponendid/videokaardid), [Euronics: игровые ПК](https://www.euronics.ee/it/lauaarvutid/manguriarvutid), [Arvutivägi: игровые ПК](https://arvutivagi.ee/manguarvutid).
 - Тесты: [TechSpot: RTX 5070 Ti vs RX 9070 XT, 52 игры](https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/), [TechSpot: RTX 5070 vs RX 9070 XT, 2026](https://www.techspot.com/review/3168-geforce-rtx-5070-vs-radeon-rx-9070-xt/), [GamersNexus: RX 9070 XT](https://gamersnexus.net/gpus/amd-radeon-rx-9070-xt-gpu-review-benchmarks-vs-5070-ti-5070-7900-xt-sapphire-pulse), [wccftech: 9800X3D vs 7800X3D](https://wccftech.com/best/amd-ryzen-7-9800x3d-vs-7800x3d-for-gaming/).
 - Спецификация ROG G700: [ASUS ROG G700 (2025) GM700](https://rog.asus.com/us/desktops/full-tower/rog-g700-2025-gm700/spec).
+
+---
+
+## Приложение: MSI MPG Trident AS AI 2nd (2NVN7-011EU)
+
+[Arvutitark](https://arvutitark.ee/ru/pcs-and-accessories/desktop-pcs/pc-mpg-trident-as-ai-cu7-265f32gb1tb-w11-2nvn7-011eu-msi-1509585): **1 899 €**, в наличии в 7 магазинах (5.11.2026). Характеристики взяты из [официального техлиста MSI](https://storage-asset.msi.com/specSheet/de/desktop/MPG%20Trident%20AS%20AI%202NVN7-011EU.pdf) ✅.
+
+| | |
+|---|---|
+| CPU | Intel Core Ultra 7 265F (8P+12E, 20 потоков, до 5,3 ГГц, 65 Вт), воздушное охлаждение |
+| Плата | Чипсет B860 (LGA1851) |
+| GPU | GeForce RTX 5060 Ti **16 ГБ** (HDMI ×1, DP ×3) |
+| RAM | 32 ГБ (2×16) DDR5 U-DIMM, **слотов 2, свободных 0**, максимум 64 ГБ |
+| SSD | 1 ТБ M.2 PCIe Gen4 ×4; слотов M.2: 2, свободен 1; отсеков 2,5": 2 свободных |
+| БП | **500 Вт SFX, 80+ Gold, стандарт ATX12VO** |
+| Сеть | 2,5G LAN (Realtek 8125D), Wi-Fi 6E + BT 5.3 (Intel AX211) |
+| Корпус | 10,4 л, 397 × 137 × 410 мм, 5,5 кг, боковая панель из стекла |
+| ОС / гарантия | Windows 11 Home / 24 мес. |
+
+**Своя сборка из тех же деталей** (Core Ultra 7 265F ≈ 339 €, B860M ≈ 128 €, 32 ГБ ≈ 542 €, RTX 5060 Ti 16 ГБ ≈ 880 €, SSD ≈ 160 €, БП ≈ 85 €, корпус и кулер ≈ 80 €, Windows ≈ 120 €) стоит **≈ 2 330 €**. Готовый ПК **дешевле примерно на 430 €**.
+
+**Ограничения:** блок питания ATX12VO на 500 Вт: обычный ATX-БП не подойдёт, а мощности хватит максимум на карты уровня RTX 5070 (так указывает MSI). Платформа LGA1851 вряд ли получит новые процессоры. Чтобы расширить память, придётся менять оба модуля.
