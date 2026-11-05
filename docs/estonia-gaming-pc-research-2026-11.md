@@ -221,3 +221,14 @@
 7800X3D tray 293,03 € · Gigabyte B650M Gaming Plus WiFi 130,30 € · Goodram IRDM 2×16 6000 554,31 € · ASRock RX 9070 XT 1 002,46 € · PNY CS1030 1 ТБ 158,60 € · Seasonic Core GC-750 86,00 € · Arctic Freezer 36-S 21,90 € · Deepcool CC560 V2 50,46 €. Ссылки на страницы Hinnavaatlus со всеми предложениями: [CPU](https://www.hinnavaatlus.ee/2582663/amd-socket-am5-ryzen-7-7800x3d-tray/), [плата](https://www.hinnavaatlus.ee/4900240/gigabyte-socket-am5-b650m-gaming-plus-wifi/), [RAM](https://www.hinnavaatlus.ee/3019759/goodram-ddr5-irdm-32-gb-2x16gb-6000mhz/), [GPU](https://www.hinnavaatlus.ee/6976915/asrock-radeon-rx-9070-xt-16-gb/), [SSD](https://www.hinnavaatlus.ee/3069252/pny-cs1030-1tb-m280cs1030-1tb-rb/), [БП](https://www.hinnavaatlus.ee/7374118/seasonic-core-gc-750-atx31-80-gold-750w/), [кулер](https://www.hinnavaatlus.ee/7800265/arctic-cpu-cooler-freezer-36-s-multi-compatible/), [корпус](https://www.hinnavaatlus.ee/2892689/deepcool-cc560-v2/).
 
 PNY CS1030 — это PCIe 3.0, в играх почти не медленнее. Если хочется Gen4, разница ≈ 10–40 €.
+
+### Варианты на NVIDIA (Arvutitark, 5.11.2026)
+Основа та же: 7800X3D, ASUS B650E MAX GAMING WIFI, 2×16 ГБ 6000 CL36, SN580 1 ТБ, PA120 SE, Lancool 207. Блок питания заменён на [Seasonic Core GC-750 ATX 3.1](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/seasonic-core-gc-750w-atx-30-80-plus-gold-1519004) (74,55 €, родной разъём 12V-2x6 для RTX 50). Без видеокарты основа стоит **1 361,95 €**.
+
+| Видеокарта | Цена | Итого | Наличие | Производительность |
+|---|---|---|---|---|
+| [MSI RTX 5070 Ti 16G Ventus 3X OC](https://arvutitark.ee/arvutikomponendid/graafikakaardid-vga/msi-geforce-rtx-5070-ti-ventus-3x-oc-16384-mb-gddr7-1432926) | 1 549,90 € | **2 911,85 €** | в магазинах | ≈ RX 9070 XT в растеризации, RT ≈ +19 %, DLSS 4 |
+| [PNY RTX 5070 Slim OC 12 ГБ](https://arvutitark.ee/arvutikomponendid/graafikakaardid-vga/rtx-5070-12gb-pny-slim-oc-gddr7-1598531) | 1 078,30 € | **2 440,25 €** | склад, 5–10 дней | заметно медленнее RX 9070 XT, 12 ГБ |
+| [ASUS Dual RTX 5060 Ti 16 ГБ](https://arvutitark.ee/arvutikomponendid/graafikakaardid-vga/vga-asus-rtx5060ti-16gb-dual-o16g-1451626) | 879,90 € | **2 241,85 €** | в магазинах | уровень 1080p/1440p high |
+
+В других магазинах (по Hinnavaatlus) RTX 5070 Ti стоит от ≈ 1 441 € (Eestipoisid, Enter24 1 447 €), RTX 5070 — от ≈ 969 € (MULTO, K-rauta*).
