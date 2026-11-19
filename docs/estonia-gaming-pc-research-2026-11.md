@@ -235,3 +235,25 @@ PNY CS1030 — это PCIe 3.0, в играх почти не медленнее
 
 ### Исправление по сборке в Arvutitark: блок питания
 Seasonic **G12 GC-750** — несъёмные кабели, стандарт ATX12V (не ATX 3.x), нет разъёма 12V-2x6 ([Tom's Hardware](https://www.tomshardware.com/pc-components/power-supplies/seasonic-g12-gc-750-750w-power-supply-review)). Для RX 9070 XT, которая питается от 8-pin, он подходит, но ASRock рекомендует для Steel Legend блок на **800 Вт**. Поэтому вместо него рекомендую [Corsair RM850e (ATX 3.1, полностью модульный)](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/psu-corsair-rme-850w-80gold-fm-atx31-2025-1425677) за 139,40 € (склад, 4–8 дней) или [RM750e](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/psu-corsair-rme-750w-80gold-fm-atx31-2025-1425674) за 123,90 €. С RM850e сборка стоит **2 526,70 €**.
+
+---
+
+## Контрольные цены перед Чёрной пятницей (19.11.2026)
+
+Цены Arvutitark сняты через API сайта, у всех отметка обновления 19.11.2026. Самые низкие цены в других магазинах взяты с Hinnavaatlus.
+
+| Компонент | Arvutitark 5.11 | **Arvutitark 19.11** | В наличии (магазины / склад) | Дешевле всего в других магазинах 19.11 |
+|---|---|---|---|---|
+| Ryzen 7 7800X3D (tray) | 299,90 € | **299,90 €** | 31 / 500 | 280,13 € MULTO, 285,40 € Enter24 |
+| ASUS B650E MAX GAMING WIFI | 149,90 € | **149,90 €** | 12 / 70 | 151,69 € (версия W, Kodutehnika) |
+| Patriot Viper Venom RGB 2×16 6000 CL36 | 549,90 € | **549,90 €** | 17 / 10 | аналоги: G.Skill Ripjaws S5 CL36 525,68 € (MULTO), Patriot Viper Venom CL36 549,90 € (01.ee) |
+| ASRock RX 9070 XT Steel Legend | 1 099,90 € | **1 099,90 €** | 2 / 14 | 1 078,05 € Eestipoisid, 1 085,44 € Enter24, 1 099,90 € 1a.ee; другие RX 9070 XT: Gigabyte 1 019 €* (K-rauta, Kaup24), ASUS Prime 1 035,20 € (Eestipoisid) |
+| WD Blue SN580 1 ТБ | 159,90 € | **159,90 €** | 23 / 0 | аналог: WD Black SN7100 1 ТБ 204,70 € (Enter24) |
+| Corsair RM850e | 139,40 € | **142,50 €** | 0 / 30 | 113,75 € Enter24, 116,78 € CyberMarket |
+| Thermalright Peerless Assassin 120 SE | 42,90 € | **42,90 €** | 23 / 50 | — |
+| Lian Li Lancool 207 | 84,90 € | **84,90 €** | 5 / 50 | — |
+| **Итого** | **2 526,70 €** | **2 529,80 €** | | |
+
+\* цена только для участников SMART NET.
+
+**Вывод на 19.11:** цены за две недели почти не изменились. Чтобы покупка в Чёрную пятницу имела смысл, сборка в Arvutitark должна стоить заметно меньше **≈ 2 530 €**. Сборка из разных магазинов по самым низким ценам сегодня обошлась бы примерно в 2 430 €.
