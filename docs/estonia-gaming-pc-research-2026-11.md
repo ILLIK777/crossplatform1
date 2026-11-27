@@ -265,3 +265,7 @@ Arvutitark: цены на все детали те же, что 19.11, кром�
 Arvutitark: цены основных деталей не изменились. Старый RM850e подорожал до 143,40 €, но в продаже появилась скидка на **Corsair RM850e 3-го поколения (ThermalProtect, 12V-2x6)**: [104,90 € вместо 144,90 €](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/corsair-rme-series-3rd-gen-rm850e-thermalprotect-850-watt-at-1648316), в наличии в 10 магазинах. С ним сборка стоит **2 492,20 €** (вместо 2 530,70 €). Также в продаже со скидкой [Corsair RM850x](https://arvutitark.ee/arvutikomponendid/toiteplokid-psu/corsair-corsair-rmx-series-rm850x-atx-31-f-modular-gold-1398040): 119,90 € вместо 159,90 €.
 Видеокарта Steel Legend осталась только в 1 магазине Arvutitark (на складе 13 шт.).
 В других магазинах (Hinnavaatlus): 7800X3D от 277,65 € (MULTO), Patriot Viper Venom 2×16 CL36 от 515,05 € (Eestipoisid), RX 9070 XT Steel Legend от 1 069,38 € (MULTO), RX 9070 XT ASRock от 1 034,99 € (Kaup24).
+
+### Чёрная пятница, 27.11.2026
+Arvutitark: на детали сборки цены те же, что 26.11. Скидка только на блок питания RM850e 3-го поколения (104,90 €). **Итого 2 492,20 €.** Скидок на видеокарты, память и процессоры нет. Скидки есть на корпуса и вентиляторы, например Lian Li Vector V100 за 66,90 € (было 79,90 €).
+В других магазинах (Hinnavaatlus): 7800X3D от 277,65 € (MULTO), Patriot Viper Venom 2×16 CL36 от 513,05 € (Eestipoisid), RX 9070 XT Steel Legend от 1 072,05 € (Enter24), RX 9070 XT ASRock от 1 034,99 € (Kaup24). По сравнению с 26.11 изменения в пределах 2 €.
