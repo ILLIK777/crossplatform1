@@ -269,3 +269,7 @@ Arvutitark: цены основных деталей не изменились. 
 ### Чёрная пятница, 27.11.2026
 Arvutitark: на детали сборки цены те же, что 26.11. Скидка только на блок питания RM850e 3-го поколения (104,90 €). **Итого 2 492,20 €.** Скидок на видеокарты, память и процессоры нет. Скидки есть на корпуса и вентиляторы, например Lian Li Vector V100 за 66,90 € (было 79,90 €).
 В других магазинах (Hinnavaatlus): 7800X3D от 277,65 € (MULTO), Patriot Viper Venom 2×16 CL36 от 513,05 € (Eestipoisid), RX 9070 XT Steel Legend от 1 072,05 € (Enter24), RX 9070 XT ASRock от 1 034,99 € (Kaup24). По сравнению с 26.11 изменения в пределах 2 €.
+
+### Готовые ПК в Чёрную пятницу (27.11.2026)
+- **Скидки:** [HP OMEN MAX 45L](https://www.klick.ee/manguriarvuti-hp-omen-max-45l-15-ryzen7-32gb-1tb-rtx5070) в Klick: 9800X3D, RTX 5070 12 ГБ, 32 ГБ DDR5-6000, 1 ТБ, жидкостное охлаждение — 2 799 € (обычная цена 3 199 €, на сайте указана гарантия 1 год). [Acer с Core Ultra 7 265F и RTX 5060](https://arvutitark.ee/arvutid-ja-lisad/lauaarvutid/pcacerdesktopintel-core-ultra-7265f32-gbddr5-sdramnvidia-gef-1625144) в Arvutitark: 2 099 € (было 2 599 €), невыгодно. В Euronics и Arvutivägi скидок на игровые ПК нет.
+- **Без скидки, но конкурентоспособно:** [ASUS ROG G700TZ (9800X3D + RX 9070 XT, 32 ГБ, 1 ТБ, Win 11)](https://arvutitark.ee/arvutid-ja-lisad/lauaarvutid/brand-pc/pc-gm700tz-r7-r9800x3d-32gb1tb-gm700tz-r9800x295w-asus-1650023) — 2 799 €, в наличии в 14 магазинах. Lenovo LOQ с RTX 5070 подорожал: 2 099 € (было 1 999 €).
